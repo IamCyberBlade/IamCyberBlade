@@ -7,10 +7,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
-
-
-[LinkedIn](https://www.linkedin.com/in/nadim-uddin-2b60292a9/)
+ - [LinkedIn](https://www.linkedin.com/in/nadim-uddin-2b60292a9/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
