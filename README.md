@@ -4,6 +4,19 @@
 
   - [Dark Web Project](https://iamcyberblade.blogspot.com/2024/01/the-dark-web-project.html)
 
+<h2> 🕴 My Blog </h2>
+
+- [My Blog](https://iamcyberblade.blogspot.com/)
+
+<h2>💼Other Portfolios </h2>
+
+- [TryHackMe](https://tryhackme.com/p/IamCyberBlade)
+- [Microsoft](https://learn.microsoft.com/en-us/users/cyberblade/)
+- [LetsDefend](https://app.letsdefend.io/user/Cyberblade)
+
+<h2>📰Publications </h2>
+
+- [Leveraging AI](https://iamcyberblade.blogspot.com/2024/03/leveraging-ai.html)
 
 <h2> 🤳 Connect with me:</h2>
 
