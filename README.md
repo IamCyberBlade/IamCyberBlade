@@ -18,6 +18,11 @@
 
 - [Leveraging AI](https://iamcyberblade.blogspot.com/2024/03/leveraging-ai.html)
 
+<h2> 👨‍💼Continuous Professional Development </h2>
+
+- [CPD](https://github.com/IamCyberBlade/Continuous-Professional-Development)
+
+
 <h2> 🤳 Connect with me:</h2>
 
  - [LinkedIn](https://www.linkedin.com/in/nadim-uddin-2b60292a9/)
