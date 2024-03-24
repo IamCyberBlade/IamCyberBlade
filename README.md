@@ -12,7 +12,12 @@
   - [Documentation (Powershell, Wireshark, Fault record, Network Security) (Feb 2017 - Jun 2017)](https://github.com/IamCyberBlade/-Documentation-Powershell-Wireshark-Fault-record-Network-Security-)
   - [Gaming Website (Sep 2016 - June 2017)](https://github.com/IamCyberBlade/Gaming-Website)  
   - [Concept Game Design Documentation (Sept 2016 - Feb 2017)](https://github.com/IamCyberBlade/-Concept-Game-Design-Documentation)  
-  - [MS Access Relational Database (Sept 2016 - Nov 2016)](https://github.com/IamCyberBlade/-MS-Access-Relational-Database)   
+  - [MS Access Relational Database (Sept 2016 - Nov 2016)](https://github.com/IamCyberBlade/-MS-Access-Relational-Database)
+
+<h2> 👨‍💼Continuous Professional Development </h2>
+
+- [CPD](https://github.com/IamCyberBlade/Continuous-Professional-Development)
+
 <h2> 🕴 My Blog </h2>
 
 - [My Blog](https://iamcyberblade.blogspot.com/)
@@ -27,9 +32,6 @@
 
 - [Leveraging AI](https://iamcyberblade.blogspot.com/2024/03/leveraging-ai.html)
 
-<h2> 👨‍💼Continuous Professional Development </h2>
-
-- [CPD](https://github.com/IamCyberBlade/Continuous-Professional-Development)
 
 
 <h2> 🤳 Connect with me:</h2>
