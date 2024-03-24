@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nadim! (UNDER DEVELOPMENT)
+<h1>Hi, I'm Nadim!
 
 <h2>👨‍💻 IT Projects (Updating)</h2>
 
@@ -13,7 +13,6 @@
   - [Gaming Website (Sep 2016 - June 2017)](https://github.com/IamCyberBlade/Gaming-Website)  
   - [Concept Game Design Documentation (Sept 2016 - Feb 2017)](https://github.com/IamCyberBlade/-Concept-Game-Design-Documentation)  
   - [MS Access Relational Database (Sept 2016 - Nov 2016)](https://github.com/IamCyberBlade/-MS-Access-Relational-Database)   
-  - [(Click to view full project list currently on Linkedin)](https://www.linkedin.com/in/nadim-uddin-2b60292a9/details/projects/) 
 <h2> 🕴 My Blog </h2>
 
 - [My Blog](https://iamcyberblade.blogspot.com/)
