@@ -3,9 +3,10 @@
 <h2>👨‍💻 IT Projects (Updating)</h2>
 
   - [Dark Web Project (May 2023 - Aug 2023)](https://iamcyberblade.blogspot.com/2024/01/the-dark-web-project.html)
+  - [Wallboard (Nov 2021 - Nov 2021)](https://github.com/IamCyberBlade/Wallboard)
   - [Missing Person Awareness System (Sep 2019 - Mar 2020)](https://github.com/IamCyberBlade/Missing-Person-Awareness)
   - [Boogle Search Engine (Sep 2019 - Jan 2020)](https://github.com/IamCyberBlade/Boogle-Search-Engine)
-  - [Student Information Kiosk (Jan 2019 - May 2019)](https://github.com/IamCyberBlade/Student-Information-Kiosk/tree/main)
+  - [Student Information Kiosk (Jan 2019 - May 2019)](https://github.com/IamCyberBlade/Student-Information-Kiosk)
   - [Documentation (Powershell, Wireshark, Fault record, Network Security) (Feb 2017 - Jun 2017)](https://github.com/IamCyberBlade/-Documentation-Powershell-Wireshark-Fault-record-Network-Security-)
   - [Gaming Website (Sep 2016 - June 2017)](https://github.com/IamCyberBlade/Gaming-Website)  
   - [Concept Game Design Documentation (Sept 2016 - Feb 2017)](https://github.com/IamCyberBlade/-Concept-Game-Design-Documentation)  
