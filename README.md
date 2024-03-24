@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 IT Projects (Updating)</h2>
 
+  - [Microsoft Sentinel Training Lab (Feb 2024 - Present)]()
+  - [Cyber Security Experimentation Project (Jan 2024 - Present)]()
   - [Dark Web Project (May 2023 - Aug 2023)](https://iamcyberblade.blogspot.com/2024/01/the-dark-web-project.html)
   - [Wallboard (Nov 2021 - Nov 2021)](https://github.com/IamCyberBlade/Wallboard)
   - [Missing Person Awareness System (Sep 2019 - Mar 2020)](https://github.com/IamCyberBlade/Missing-Person-Awareness)
